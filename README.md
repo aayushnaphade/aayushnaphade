@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm Mechanical Engineer
 ### 🔭 I'm currently working on 🚗ADAS: Advance Driving Assistance System at @IvLabs.<br>👯 I'm looking to collaborates on any ML&Ai Research , IoT Systems Projects.<br>🌱 I'm currently learning App Development (Fultter & RN)<br>💬 Ask me about Hardware Coding and Linux<br>⚡Be my friend by doing projects with me. DM me @aayushnaphade
 
 
